@@ -35,6 +35,7 @@
      ```
    - This command looks at [INSTALLED_APPS](https://docs.djangoproject.com/en/3.0/ref/settings/#std:setting-INSTALLED_APPS) settings and created database tables needed according to the daabase settings.
 
----
+***
+*These Directions are based on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the [Official Django Website](https://www.djangoproject.com/)*
 
-_These Directions are based on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the [Official Django Website](https://www.djangoproject.com/)_
+__Created By: [Trinity Terry](https://github.com/TrinityTerry)__

@@ -73,6 +73,7 @@ To call this view, we need to map it to a URL
     ## [path( ) argument: kwargs](https://docs.djangoproject.com/en/3.0/intro/tutorial01/#path-argument-kwargs)
 
     ## [path( ) argument: name](https://docs.djangoproject.com/en/3.0/intro/tutorial01/#path-argument-name)
-
 ***
 *These Directions are based on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the [Official Django Website](https://www.djangoproject.com/)*
+
+__Created By: [Trinity Terry](https://github.com/TrinityTerry)__
