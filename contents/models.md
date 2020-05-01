@@ -1,8 +1,8 @@
 # Models
 
 ## Contents
-1. ### [Create Model]()
-1. ### [Activating Models]()
+1. ### [Create Model](https://github.com/TrinityTerry/django-directions/blob/master/contents/models.md#create-model-1)
+1. ### [Activating Models](https://github.com/TrinityTerry/django-directions/blob/master/contents/models.md#activating-models-1)
 
 ## Create Model
 
