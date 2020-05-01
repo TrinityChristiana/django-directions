@@ -31,3 +31,6 @@ Add this to .zshrc help function to remeber function name
 ```zsh
 echo " - mkdj()                    start virtual env"
 ```
+
+***
+*These Directions are based on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the [Official Django Website](https://www.djangoproject.com/)*

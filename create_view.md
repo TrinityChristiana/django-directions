@@ -1,14 +1,14 @@
 # Create View
 
 ## Contents
-1. ### [Update view.py file](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#update-viewpy-file)
+1. ### [Update `view.py` file](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#update-viewpy-file)
 2. ### [Call View](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#call-view)
 3. ### [include function](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#include-)
 4. ### [path function](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#path-)
 ***
 
-## Update view.py file
-- Open view.py file in application file
+## Update `view.py` file
+- Open `view.py` file in application file
 - Copy and paste this into the doccument
 ```python
 from django.http import HttpResponse
@@ -58,7 +58,7 @@ To call this view, we need to map it to a URL
 ## [include( )](https://docs.djangoproject.com/en/3.0/ref/urls/#django.urls.include)
 
 > - The include() function allows referencing other URLconfs. Whenever Django encounters include(), it chops off whatever part of the URL matched up to that point and sends the remaining string to the included URLconf for further processing.
-> - The idea behind include() is to make it easy to plug-and-play URLs. Since polls are in their own URLconf (polls/urls.py), they can be placed under “/polls/”, or under “/fun_polls/”, or under “/content/polls/”, or any other path root, and the app will still work.
+> - The idea behind include() is to make it easy to plug-and-play URLs. Since polls are in their own URLconf (`polls/urls.py`), they can be placed under “/polls/”, or under “/fun_polls/”, or under “/content/polls/”, or any other path root, and the app will still work.
 >   - [Official Django Website](https://docs.djangoproject.com/en/3.0/intro/tutorial01/#write-your-first-view)
 ***
 
@@ -73,3 +73,6 @@ To call this view, we need to map it to a URL
     ## [path( ) argument: kwargs](https://docs.djangoproject.com/en/3.0/intro/tutorial01/#path-argument-kwargs)
 
     ## [path( ) argument: name](https://docs.djangoproject.com/en/3.0/intro/tutorial01/#path-argument-name)
+
+***
+*These Directions are based on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the [Official Django Website](https://www.djangoproject.com/)*

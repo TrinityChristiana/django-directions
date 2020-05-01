@@ -30,3 +30,6 @@ Quit the server with CONTROL-C.
 > *Ignore the Migration warning for now*
 
 Visit the server url [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your web browser to see a "The install worked successfully! Congratulations!" message
+
+***
+*These Directions are based on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the [Official Django Website](https://www.djangoproject.com/)*

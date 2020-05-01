@@ -67,3 +67,6 @@ If you do not see this, you can go to [Python's Official download page](https://
     python -m django --version
     ```
 - This should return a version number for Django (X.X)
+
+***
+*These Directions are based on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the [Official Django Website](https://www.djangoproject.com/)*

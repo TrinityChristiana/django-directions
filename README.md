@@ -1,5 +1,3 @@
-![Trinity Terry Logo](images/logo.png)
-
 # Django Application
 
 ## Contents
@@ -9,3 +7,6 @@
 1. ### [Run Server](https://github.com/TrinityTerry/django-directions/blob/master/run_server.md)
 1. ### [Create Django Application](https://github.com/TrinityTerry/django-directions/blob/master/create_app.md)
 1. ### [Create View](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md)
+
+***
+*These Directions are based on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the [Official Django Website](https://www.djangoproject.com/)*
