@@ -1,4 +1,4 @@
-![Trinity Terry Logo](images/logo.png
+![Trinity Terry Logo](images/logo.png)
 
 # Django Application
 
