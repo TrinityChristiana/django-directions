@@ -1,7 +1,11 @@
 # Installations
-- [Install Python]()
-- [Install Django]()
-- [Test Installations]()
+
+## Contents
+1. ### [Install Python](https://github.com/TrinityTerry/django-directions/blob/master/installations.md#install-python)
+1. ### [Install Django](https://github.com/TrinityTerry/django-directions/blob/master/installations.md#install-django)
+1. ## [Test Installations](https://github.com/TrinityTerry/django-directions/blob/master/installations.md#test-that-you-have-django-installed-correctly)
+***
+
 ## Install Python
 
 Check to make sure Python is Installed by running this command
@@ -19,6 +23,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 If you do not see this, you can go to [Python's Official download page](https://www.python.org/downloads/) to download the latest version of Python.
+***
 
 ## Install Django
 - [Install pip](https://pip.pypa.io/en/stable/installing/)
@@ -52,6 +57,7 @@ If you do not see this, you can go to [Python's Official download page](https://
         ```shell
         $ python -m pip install Django
         ```
+***
 
 ## Test That you have Django installed correctly
 

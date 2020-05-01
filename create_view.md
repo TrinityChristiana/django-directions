@@ -1,5 +1,12 @@
 # Create View
 
+## Contents
+1. ### [Update view.py file](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#update-viewpy-file)
+2. ### [Call View](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#call-view)
+3. ### [include function](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#include-)
+4. ### [path function](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#path-)
+***
+
 ## Update view.py file
 - Open view.py file in application file
 - Copy and paste this into the doccument
@@ -10,6 +17,7 @@ from django.http import HttpResponse
 def index(request):
     return HttpResponse("Hello, world.")
 ```
+***
 
 ## Call View
 To call this view, we need to map it to a URL
@@ -42,19 +50,19 @@ To call this view, we need to map it to a URL
 
 1. Check to see that view works
 
-- Make sure [server is running]()
+- Make sure [server is running](https://github.com/TrinityTerry/django-directions/blob/master/run_server.md)
 - Go to development server url `http://localhost:8000/{URL_PAYH}/`
 - You should see `"Hello, world."`
+***
 
-
-# [include( )](https://docs.djangoproject.com/en/3.0/ref/urls/#django.urls.include)
+## [include( )](https://docs.djangoproject.com/en/3.0/ref/urls/#django.urls.include)
 
 > - The include() function allows referencing other URLconfs. Whenever Django encounters include(), it chops off whatever part of the URL matched up to that point and sends the remaining string to the included URLconf for further processing.
 > - The idea behind include() is to make it easy to plug-and-play URLs. Since polls are in their own URLconf (polls/urls.py), they can be placed under “/polls/”, or under “/fun_polls/”, or under “/content/polls/”, or any other path root, and the app will still work.
 >   - [Official Django Website](https://docs.djangoproject.com/en/3.0/intro/tutorial01/#write-your-first-view)
+***
 
-
-# [path( )](https://docs.djangoproject.com/en/3.0/ref/urls/#django.urls.path)
+## [path( )](https://docs.djangoproject.com/en/3.0/ref/urls/#django.urls.path)
 > The path() function is passed four arguments, two required: route and view, and two optional: kwargs, and name. At this point, it’s worth reviewing what these arguments are for.
 - [Official Django Website](https://docs.djangoproject.com/en/3.0/intro/tutorial01/#write-your-first-view)
 
