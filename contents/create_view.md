@@ -1,10 +1,10 @@
 # Create View
 
 ## Contents
-1. ### [Update `view.py` file](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#update-viewpy-file)
-2. ### [Call View](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#call-view)
-3. ### [include function](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#include-)
-4. ### [path function](https://github.com/TrinityTerry/django-directions/blob/master/create_view.md#path-)
+1. ### [Update `view.py` file](https://github.com/TrinityTerry/django-directions/blob/master/contents/create_view.md#update-viewpy-file-1)
+2. ### [Call View](https://github.com/TrinityTerry/django-directions/blob/master/contents/create_view.md#call-view-1)
+3. ### [include function](https://github.com/TrinityTerry/django-directions/blob/master/contents/create_view.md#include-)
+4. ### [path function](https://github.com/TrinityTerry/django-directions/blob/master/contents/create_view.md#path-)
 ***
 
 ## Update `view.py` file
@@ -50,7 +50,7 @@ To call this view, we need to map it to a URL
 
 1. Check to see that view works
 
-- Make sure [server is running](https://github.com/TrinityTerry/django-directions/blob/master/run_server.md)
+- Make sure [server is running](https://github.com/TrinityTerry/django-directions/blob/master/contents/run_server.md#run-server)
 - Go to development server url `http://localhost:8000/{URL_PAYH}/`
 - You should see `"Hello, world."`
 ***

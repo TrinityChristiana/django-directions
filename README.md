@@ -9,7 +9,7 @@
 1. ### [Create View](https://github.com/TrinityTerry/django-directions/blob/master/contents/create_view.md)
 1. ### [Database Setup](https://github.com/TrinityTerry/django-directions/blob/master/contents/database.md)
 1. ### [Models](https://github.com/TrinityTerry/django-directions/blob/master/contents/models.md#models)
-1. ### [API in Terminl]()
+1. ### [API in Terminal](https://github.com/TrinityTerry/django-directions/blob/master/contents/api.md)
 
 ***
 *These Directions are based on [Writing your first Django app](https://docs.djangoproject.com/en/3.0/intro/tutorial01/) from the [Official Django Website](https://www.djangoproject.com/)*

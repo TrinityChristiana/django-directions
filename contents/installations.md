@@ -1,9 +1,9 @@
 # Installations
 
 ## Contents
-1. ### [Install Python](https://github.com/TrinityTerry/django-directions/blob/master/installations.md#install-python)
-1. ### [Install Django](https://github.com/TrinityTerry/django-directions/blob/master/installations.md#install-django)
-1. ## [Test Installations](https://github.com/TrinityTerry/django-directions/blob/master/installations.md#test-that-you-have-django-installed-correctly)
+1. ### [Install Python](https://github.com/TrinityTerry/django-directions/blob/master/contents/installations.md#install-python-1)
+1. ### [Install Django](https://github.com/TrinityTerry/django-directions/blob/master/contents/installations.md#install-django-1)
+1. ## [Test Installations](https://github.com/TrinityTerry/django-directions/blob/master/contents/installations.md#test-that-you-have-django-installed-correctly)
 ***
 
 ## Install Python
